@@ -1,4 +1,4 @@
-### Hi there 👋, HackerNick
+### Hi there 👋,I am HackerNick
 #### Design and Development 
 ![Design and Development ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
