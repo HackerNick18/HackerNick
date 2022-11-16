@@ -2,7 +2,7 @@
 #### Design and Development 
 ![Design and Development ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am HackerNick from North Carolina, I am a junior at ECU studying Business management with a concentration in Accounting and a concentration in finance. I also enjoy learning code and I also enjoy playing some PC games!!!
+I am HackerNick from North Carolina, I am a junior at ECU studying Business Administration with a concentration in Accounting and a concentration in finance. I also enjoy learning code and I also enjoy playing some PC games!!!
 
 Skills:  / REACT / JS / HTML / CSS/Microsoft Word/Microsoft Excel
 
